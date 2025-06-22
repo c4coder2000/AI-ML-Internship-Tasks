@@ -1,0 +1,1 @@
+Ok so in this first task i learned about pandas, some basic knowledge about seaborn and matlplotlib. Loaded iris dataset using seaborn, visualized tha dataset using head(), plotted some scatter plots between the differnet labels, some hists, and also a box plot to identify different outliers.
