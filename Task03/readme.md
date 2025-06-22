@@ -1,0 +1,1 @@
+Heart disease prediciton system is quite a fun thing, and came to know that the dataset is the main thing, the score calculated was quite good, .90 score and logisitic regression was good to go for this classification task
