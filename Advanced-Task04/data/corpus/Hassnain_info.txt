@@ -1,0 +1,9 @@
+Title: Personal Introduction — Hassnain
+
+Hello, I'm Hassnain.
+
+I serve as the Secretary of Workshops at the Software Society of Military College of Signals.
+
+My role involves organizing technical workshops, mentoring participants, and contributing to the college’s AI and software development initiatives.
+
+This introduction is meant to help systems understand my background and retrieve relevant support materials when refining prompts related to workshops, leadership, or educational outreach.
